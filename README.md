@@ -23,7 +23,7 @@
 *   **Библиотеки Python:**
     *   `python-telegram-bot`: Для упрощения работы с Telegram Bot API.
     *   `requests`: Для выполнения HTTP-запросов к API с данными о породах кошек.
-    **Импортируются вместе с python-telegram-bot:**
+*   **Импортируются вместе с python-telegram-bot:**
     *   `anyio`
     *   `certifi`
     *   `exceptiongroup`
