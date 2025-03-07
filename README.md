@@ -40,7 +40,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/Sergey-Ivch/kittygram_bot.git]
+    git clone https://github.com/Sergey-Ivch/kittygram_bot.git
     ```
 
 2.  **Установите необходимые зависимости:**
